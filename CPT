@@ -119,8 +119,7 @@ if response = a
 elif response == b
     print("")
 elif response == c 
-    print("")
-    break   
+    print("")  
 else: Invalid answer please try again.")
 
 question3 =
@@ -130,8 +129,7 @@ if response = a
 elif response == b
     print("")
 elif response == c 
-    print("")
-    break   
+    print("")  
 else: Invalid answer please try again.")
 
 question4 = "You're chasing the killer in a house. He's ahead of you and there are 2 doors which one do you pick? A: T
@@ -144,8 +142,7 @@ if response = a
 elif response == b
     print("You saw the killer's footprints! ")
 elif response == c 
-    print("Sorry you picked the wrong choice and the killer got away.")
-    break   
+    print("Sorry you picked the wrong choice and the killer got away.") 
 else: Invalid answer please try again.")
 
 question5 =
@@ -156,7 +153,6 @@ elif response == b
     print("")
 elif response == c 
     print("")
-    break   
 else: Invalid answer please try again.")
 
 question6 =
@@ -167,7 +163,6 @@ elif response == b
     print("")
 elif response == c 
     print("")
-    break   
 else: Invalid answer please try again.")
 
 question7 =
@@ -177,8 +172,7 @@ if response = a
 elif response == b
     print("")
 elif response == c 
-    print("")
-    break   
+    print("")   
 else: Invalid answer please try again.")
 
 question8 =
@@ -189,7 +183,6 @@ elif response == b
     print("")
 elif response == c 
     print("")
-    break   
 else: Invalid answer please try again.")
 
 question9 =
@@ -200,7 +193,6 @@ elif response == b
     print("")
 elif response == c 
     print("")
-    break   
 else: Invalid answer please try again.")
 
 question10 =
@@ -210,8 +202,7 @@ if response = a
 elif response == b
     print("")
 elif response == c 
-    print("")
-    break   
+    print("")  
 else: Invalid answer please try again.")
 
 """
