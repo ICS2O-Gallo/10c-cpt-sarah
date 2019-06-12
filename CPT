@@ -124,12 +124,10 @@ before him."
 response = int(input"Pick your poison: "
 if response = a
     print("You've picked the wrong option and the killer got out. Do you want to continue or do you quit?"
-if response = b
+elif response = b
     print("You saw the killer's footprints! ")
-if response = c 
+elif response = c 
     print("Sorry the killer stabbed you before you could find him.")
-    
-
     
 """
 
